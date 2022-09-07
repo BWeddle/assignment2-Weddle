@@ -33,5 +33,13 @@ List of things to do near the Nelson-Atkins:
 - LEGOLAND Discovery Center Kansas City
 - André's Chocolates
 
-
 [Link To my About Me](AboutMe.md)
+
+---
+
+Things to Do and Places to See:
+|City|Location|Time|
+|---|---|---|
+|Washington DC|The Smithsonian|1-3 Days|
+|Omaha|The Old Market|3-4 Hours|
+|Kansas City|City Market|1-2 Hours|
