@@ -32,3 +32,6 @@ List of things to do near the Nelson-Atkins:
 - The Nationa; WWI Museum and Memorial
 - LEGOLAND Discovery Center Kansas City
 - André's Chocolates
+
+
+[Link To my About Me](AboutMe.md)
