@@ -37,9 +37,16 @@ List of things to do near the Nelson-Atkins:
 
 ---
 
-Things to Do and Places to See:
+### Things to Do and Places to See:
 |City|Location|Time|
 |---|---|---|
 |Washington DC|The Smithsonian|1-3 Days|
 |Omaha|The Old Market|3-4 Hours|
 |Kansas City|City Market|1-2 Hours|
+
+---
+
+## Quotes
+> "Do or do not there is no try" *- Yoda*
+
+> "If I have seen further than others, it is by standing upon the shoulders of giants" *- Isaac Newton*
