@@ -22,3 +22,13 @@ The nearest airport to the Nelson-Atkins is KCI \
 12. Keep right onto West Gillham Rd. Go for 0.4 mi.
 13. Continue on E 45th St. Go for 0.1 mi.
 14. Turn left. Go for 354 ft.
+
+List of things to do near the Nelson-Atkins:
+- The Ewing and Muriel Kauffman Memorial Garden
+- Uptown Theater
+- The National Museum of Toys and Miniatures
+- Joe's Kansas City Bar-B-Que
+- Formerly known as Oklahoma Joe's Bar-B-Que
+- The Nationa; WWI Museum and Memorial
+- LEGOLAND Discovery Center Kansas City
+- André's Chocolates
