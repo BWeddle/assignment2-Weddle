@@ -50,3 +50,17 @@ List of things to do near the Nelson-Atkins:
 > "Do or do not there is no try" *- Yoda*
 
 > "If I have seen further than others, it is by standing upon the shoulders of giants" *- Isaac Newton*
+
+---
+
+## Code Fencing
+> I'm developing a private message system that allows users to search for a user by their full name, e.g.: "George Washington".
+>
+>I have two variables named $firstname and $lastname, and the search function orders results by relevancy (how many times you have messaged that person). How do I get a text field to split "George Washington" into $firstname="George" and $lastname="Washington"?
+>https://stackoverflow.com/questions/13637145/split-text-string-into-first-and-last-name-in-php
+
+```
+$name = "John S Smith";
+list($fname, $lname) = split(' ', $name,2);
+echo "First Name: $fname, Last Name: $lname";
+```
